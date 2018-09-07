@@ -1,0 +1,7 @@
+D:\Prog\C#\DelphiTestTask\DelphiTestTask\bin\Debug\DelphiTestTask.exe.config
+D:\Prog\C#\DelphiTestTask\DelphiTestTask\bin\Debug\DelphiTestTask.exe
+D:\Prog\C#\DelphiTestTask\DelphiTestTask\bin\Debug\DelphiTestTask.pdb
+D:\Prog\C#\DelphiTestTask\DelphiTestTask\obj\Debug\DelphiTestTask.csproj.CoreCompileInputs.cache
+D:\Prog\C#\DelphiTestTask\DelphiTestTask\obj\Debug\DelphiTestTask.exe
+D:\Prog\C#\DelphiTestTask\DelphiTestTask\obj\Debug\DelphiTestTask.pdb
+D:\Prog\C#\DelphiTestTask\DelphiTestTask\obj\Debug\DelphiTestTask.csprojResolveAssemblyReference.cache

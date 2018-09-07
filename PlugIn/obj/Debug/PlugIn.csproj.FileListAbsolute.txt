@@ -1,0 +1,6 @@
+D:\Prog\C#\DelphiTestTask\PlugIn\bin\Debug\PlugIn.dll
+D:\Prog\C#\DelphiTestTask\PlugIn\bin\Debug\PlugIn.pdb
+D:\Prog\C#\DelphiTestTask\PlugIn\obj\Debug\PlugIn.csprojResolveAssemblyReference.cache
+D:\Prog\C#\DelphiTestTask\PlugIn\obj\Debug\PlugIn.csproj.CoreCompileInputs.cache
+D:\Prog\C#\DelphiTestTask\PlugIn\obj\Debug\PlugIn.dll
+D:\Prog\C#\DelphiTestTask\PlugIn\obj\Debug\PlugIn.pdb

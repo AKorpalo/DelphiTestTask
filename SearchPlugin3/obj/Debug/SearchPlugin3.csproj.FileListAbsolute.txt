@@ -1,0 +1,8 @@
+D:\Prog\C#\DelphiTestTask\SearchPlugin3\bin\Debug\SearchPlugin3.dll
+D:\Prog\C#\DelphiTestTask\SearchPlugin3\bin\Debug\SearchPlugin3.pdb
+D:\Prog\C#\DelphiTestTask\SearchPlugin3\bin\Debug\PlugIn.dll
+D:\Prog\C#\DelphiTestTask\SearchPlugin3\bin\Debug\PlugIn.pdb
+D:\Prog\C#\DelphiTestTask\SearchPlugin3\obj\Debug\SearchPlugin3.csprojResolveAssemblyReference.cache
+D:\Prog\C#\DelphiTestTask\SearchPlugin3\obj\Debug\SearchPlugin3.csproj.CoreCompileInputs.cache
+D:\Prog\C#\DelphiTestTask\SearchPlugin3\obj\Debug\SearchPlugin3.dll
+D:\Prog\C#\DelphiTestTask\SearchPlugin3\obj\Debug\SearchPlugin3.pdb
